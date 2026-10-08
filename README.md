@@ -33,8 +33,9 @@ pascales-world/
 
 ## Design
 
-The website was first designed in Figma and is being recreated with HTML, CSS, and JavaScript. 
+The website was first designed in Figma and is being recreated with HTML, CSS, and JavaScript. Figma design link: https://www.figma.com/design/wJKJT1ysJaiuvr4YoLMa2U/website-design?node-id=0-1&t=fqbwL4ICE24OO93Q-1
 
 ## Status
 
 The project is actively being developed. More content, interactions, and responsive design improvements will be added over time.
+
