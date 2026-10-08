@@ -1,4 +1,4 @@
-# personal-website-project
+# Personal-website-project
 
 A personal website project built from a Figma design and developed using HTML, CSS, and JavaScript.
 
