@@ -19,7 +19,6 @@ A personal website project built from a Figma design and developed using HTML, C
 * Access Granted / Access Denied pages
 * Interactive buttons with visual feedback
 * Personal website content
-* Frutiger Aero-inspired design
 
 ## Project Structure
 
